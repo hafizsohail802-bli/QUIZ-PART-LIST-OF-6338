@@ -1,0 +1,5 @@
+{
+  "name": "Advance Mechanix Quiz",
+  "description": "A comprehensive web application for managing electrical components, users, and quizzes, featuring bulk Excel import/export, a detailed admin panel, and an interactive quiz system.",
+  "requestFramePermissions": []
+}
